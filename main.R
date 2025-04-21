@@ -1,4 +1,4 @@
 
-print("HELLO WORLD")
+print("hello world")
 
 print("Goodnight moon")
